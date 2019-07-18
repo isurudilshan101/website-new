@@ -3,6 +3,7 @@
 	margin-top:-15px;
 	background: pink;
 	width:100vw;
+	padding-left: 120px;
 }
 .selection2
 {
@@ -109,7 +110,7 @@
 .pics
 {
 	width:100vw;
-	height:750px;
+	height:950px;
 	margin:0 auto;
 	background: pink;
 }
@@ -147,3 +148,4 @@
 {
 	display:flex;
 }
+
