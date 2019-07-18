@@ -1,0 +1,149 @@
+.selection
+{
+	margin-top:-15px;
+	background: pink;
+	width:100vw;
+}
+.selection2
+{
+	background:gray;
+	margin-top: -18px;
+	border-radius: 4px;
+	height: 40px;
+	width: 100vw;
+
+}
+.selection2 ul
+{
+	display: flex;
+	flex-direction: row;
+}
+.selection2 ul li
+{
+	width:16vw;
+	margin:0 auto;
+	list-style:none;
+	padding:10px;
+}
+.selection2 ul li a
+{
+	text-decoration: none;
+}
+.main-image img
+{
+	width:100vw;
+	height:300px;
+}
+.items
+{
+	display:flex;
+	width:60%;
+	margin:0 auto;
+
+}
+.itemss
+{
+	margin:0 5px;
+}
+.itemss span
+{
+	padding-left: 70px;
+}
+.selection3
+{
+	width:60%;
+	background:aqua;
+	height:auto;
+	margin:0 auto;
+	padding:5px 20px;
+
+}
+.selection3 h1
+{
+	color: red;
+
+}
+.selection3 h1
+{
+	color:darkblue;
+}
+.selection3 ul li
+{
+	list-style: lower-roman;
+}
+.selections
+{
+	display: flex;
+	width: 60%;
+	margin: 0 auto;
+}
+.selection4
+{
+	background: gray;
+	flex: 1;
+
+}
+.selection5
+{
+    background: darkblue;
+    flex: 1;
+    padding: 20px;
+}
+.selection6
+{
+	width: 100vw;
+	margin: 0 auto;
+	background: blue;
+
+}
+.selection6 span
+{
+	width: 60%;
+	padding-left: 300px;
+	text-align: center;
+}
+.heading h1
+{
+	color:blue;
+}
+.pics
+{
+	width:100vw;
+	height:750px;
+	margin:0 auto;
+	background: pink;
+}
+.border 
+{
+	width:24%;
+	height: 250px;
+	background:gray;
+	margin:20px;
+}
+.border img
+{
+	width:150px;
+	height:100px;
+	padding-left:75px;
+}
+.border span
+{
+	padding:120px;
+}
+.link a
+{
+	text-decoration: none;
+	padding:100px;
+	color:white;
+	
+}
+.link
+{
+	width:100%;
+	background:blue;
+
+}
+.pictures
+{
+	display:flex;
+}
