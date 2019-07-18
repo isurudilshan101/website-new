@@ -3,7 +3,7 @@
 	margin-top:-15px;
 	background: pink;
 	width:100vw;
-	padding-left: 120px;
+	padding-left: 70px;
 }
 .selection2
 {
@@ -149,3 +149,65 @@
 	display:flex;
 }
 
+.contactheading
+{
+	color:red;
+	margin-left: 40px;
+	margin-top: -20px;
+}
+
+.contactpic img
+{
+	width:75px;
+	height:100px;
+	margin-left:5px;
+}
+
+
+.leftform
+{
+	margin:40px;
+
+
+}
+
+.rightform
+{
+	margin:40px;
+
+
+}
+.contactpic span
+{
+	margin-left:5px;
+	color:blue;
+}
+.teleno
+{
+	width:400px;
+	background-color: pink;
+
+}
+.teleno span
+{
+	padding-left: 100px;
+}
+
+.email
+{
+	width:400px;
+	background-color: pink;
+}
+
+.email span
+{
+	padding-left: 100px;
+}
+.form
+{
+	display:flex;
+}
+.rightform
+{
+	padding-left:400px;
+}
